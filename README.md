@@ -3,7 +3,15 @@
 
 <p align="center">
   <!-- <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-  <a href="https://www.youtube.com/@RAIDCODE/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-RAIDCODE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@RAIDCODE/videos/?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-RAIDCODE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+   </a>
+  <a href="https://t.me/radfx2">
+    <img src="https://img.shields.io/badge/Telegram-CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/r_afx">
+    <img src="https://img.shields.io/badge/Telegram-ACCOUNT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -26,7 +34,7 @@ class RAID {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,,typescript,html,css,react,fastapi,redis,sqlite,mongodb,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,fastapi,redis,sqlite,mongodb,python,vscode,github,figma,git,bash" />
 </p>
 
 ---
